@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-07-20T17:27:48Z</responseDate>
+    <request verb="ListRecords" set="publication:gamut" metadataPrefix="oai_dc">http://voljournals.utk.edu/do/oai/</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1007</identifier>
+                <datestamp>2010-12-08T16:41:20Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Author Biographies</dc:title>
+                    <dc:creator>Berry, Foreman, Guerrero, Hulse, John, Leong, Silver, Authors:</dc:creator>
+                    <dc:description>Biographies of authors</dc:description>
+                    <dc:date>2008-01-01T08:00:00Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol1/iss1/6</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1007/viewcontent/66.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>Music</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1018</identifier>
+                <datestamp>2010-12-08T19:29:00Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>From the Editor</dc:title>
+                    <dc:creator>Ewell, Philip A.</dc:creator>
+                    <dc:description>Note from the editor</dc:description>
+                    <dc:date>2008-01-01T08:00:00Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol1/iss1/7</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1018/viewcontent/46.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>Music</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1050</identifier>
+                <datestamp>2012-01-20T17:04:24Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Table of Contents</dc:title>
+                    <dc:date>2012-01-18T20:49:26Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol3/iss1/11</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1050/viewcontent/TOC_Gamut_3_1.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>Music</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1053</identifier>
+                <datestamp>2012-04-18T17:06:11Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Table of Contents</dc:title>
+                    <dc:date>2012-04-18T17:05:10Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol4/iss1/1</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1053/viewcontent/TOC_GAMUT_4_1.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>Music</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1067</identifier>
+                <datestamp>2013-10-17T21:35:56Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Table of Contents</dc:title>
+                    <dc:creator>Editors, Gamut</dc:creator>
+                    <dc:date>2012-08-09T18:05:01Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol5/iss1/1</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1067/viewcontent/1_Gamut_5_1_TOC.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>Music</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1077</identifier>
+                <datestamp>2013-10-17T21:37:39Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Table of Contents</dc:title>
+                    <dc:creator>Berry, David Carson</dc:creator>
+                    <dc:date>2013-10-17T21:32:35Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol6/iss1/1</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1077/viewcontent/0_Gamut_6_1_TOC.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>Music Theory</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1097</identifier>
+                <datestamp>2014-05-13T04:56:37Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Table of Contents</dc:title>
+                    <dc:creator>Berry, David Carson</dc:creator>
+                    <dc:date>2014-05-13T08:16:27Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol6/iss2/1</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1097/viewcontent/Gamut_6_2_TOC.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1111</identifier>
+                <datestamp>2016-05-12T05:59:19Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Table of Contents</dc:title>
+                    <dc:creator>Latham, Edward D.</dc:creator>
+                    <dc:date>2016-05-12T06:45:12Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol7/iss1/1</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1111/viewcontent/1_Gamut_TOC_Vol7rev.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1118</identifier>
+                <datestamp>2018-04-25T17:21:08Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Editor's Message</dc:title>
+                    <dc:creator>Salley, Keith P</dc:creator>
+                    <dc:creator>Baker, Michael</dc:creator>
+                    <dc:date>2018-04-26T03:19:24Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol8/iss1/1</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1118/viewcontent/Editors_Preface_Gamut_8.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1141</identifier>
+                <datestamp>2020-03-13T17:11:42Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Editor's Message</dc:title>
+                    <dc:creator>Baker, Michael</dc:creator>
+                    <dc:description>We are pleased to present Volume 9 of GAMUT: The Online Journal of the Music Theory Society of the Mid-Atlantic.</dc:description>
+                    <dc:date>2020-03-13T17:15:59Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol9/iss1/1</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1141/viewcontent/Vol_9_Editor_s_Message.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1042</identifier>
+                <datestamp>2012-01-17T20:24:39Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Compound Melody and Jazz Improvisations: A Reconsideration</dc:title>
+                    <dc:creator>Check, John D.</dc:creator>
+                    <dc:description>The concept of “compound melody” (a frequent component of Schenkerian analysis) pertains to the way a single line of music projects two or more voice-leading parts. While usually associated with works of the common-practice period, it also plays a role in jazz improvisations. This is especially so in an improvisation by alto saxophonist Paul Desmond, on “All The Things You Are” by Jerome Kern and Oscar Hammerstein II. The voice-leading graphs of this solo, and the attendant commentary, suggest that an awareness and appreciation of compound melody can enable a deeper understanding of jazz styles. This article is part of a special, serialized feature: A Music-Theoretical Matrix: Essays in Honor of Allen Forte (Part II).</dc:description>
+                    <dc:date>2012-01-18T18:48:26Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol3/iss1/1</dc:identifier>
+                    <dc:identifier>info:doi/10.7290/gamutpnq5</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1042/viewcontent/Check_GAMUT_3_1.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>Music</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1000</identifier>
+                <datestamp>2010-12-07T16:56:41Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Transformation in Rock Harmony: An Explanatory Strategy</dc:title>
+                    <dc:creator>Doll, Christopher</dc:creator>
+                    <dc:description>Explaining one musical passage by saying it is a transformed version of another is a basic strategy of analysis. In this article, I explore this strategy specifically in regard to harmonic structures in rock music. By focusing on transformations that describe obvious musical experiences (as opposed to transformations that could be considered more rational than empirical in nature), I am able to explore the usefulness of concepts such as chord substitution and musical normality as they apply to our hearings, and as they apply to the ways in which we can make sense of our hearings via a notion of transformation.</dc:description>
+                    <dc:date>2009-07-01T07:00:00Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol2/iss1/14</dc:identifier>
+                    <dc:identifier>info:doi/10.7290/gamut9cop</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1000/viewcontent/67.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>music</dc:subject>
+                    <dc:subject>Music</dc:subject>
+                    <dc:subject>Music Theory</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1004</identifier>
+                <datestamp>2010-12-09T22:13:44Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Rhythm in the First Movement of Bartók’s Contrasts: Performance and Analysis</dc:title>
+                    <dc:creator>Leong, Daphne</dc:creator>
+                    <dc:creator>Silver, Daniel</dc:creator>
+                    <dc:creator>John, Jennifer</dc:creator>
+                    <dc:description>This article examines rhythm in the first movement of Bartók's Contrasts to aid performance of the work, and to deepen analytical understanding of its structure and of Bartók’s rhythmic language.</dc:description>
+                    <dc:date>2008-01-01T08:00:00Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol1/iss1/3</dc:identifier>
+                    <dc:identifier>info:doi/10.7290/gamut14tk</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1004/viewcontent/43.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>Music</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:gamut-1019</identifier>
+                <datestamp>2010-12-15T17:00:19Z</datestamp>
+                <setSpec>publication:gamut</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Manual for Ear Training and Sight Singing, by Gary S. Karpinski. New York: W. W. Norton, 2007. (And other texts by Gary S. Karpinski.)</dc:title>
+                    <dc:creator>Duerksen, Marva</dc:creator>
+                    <dc:description>Review for Manual for Ear Training and Sight Singing</dc:description>
+                    <dc:date>2009-07-01T07:00:00Z</dc:date>
+                    <dc:type>text</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>https://voljournals.utk.edu/gamut/vol2/iss1/13</dc:identifier>
+                    <dc:identifier>info:doi/10.7290/gamutnab6</dc:identifier>
+                    <dc:identifier>https://voljournals.utk.edu/context/gamut/article/1019/viewcontent/79.pdf</dc:identifier>
+                    <dc:source>Gamut: Online Journal of the Music Theory Society of the Mid-Atlantic</dc:source>
+                    <dc:publisher>TRACE: Tennessee Research and Creative Exchange</dc:publisher>
+                    <dc:subject>Music</dc:subject>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1008</identifier>
+                <datestamp>2010-03-24T20:05:24Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Interview with Wm. Brad O’Dell</dc:title>
+                    <dc:creator>Skelton, Todd</dc:creator>
+                    <dc:subject>Undergraduate Research</dc:subject>
+                    <dc:subject>Pursuit</dc:subject>
+                    <dc:type>Department</dc:type>
+                    <dc:description>Wm. Brad O’Dell is a 2009 UT graduate and received a B.A. in College Scholars Program with an emphasis in Structural Chemistry. College Scholars is a highly selective honors program major for students with interdisciplinary interests. Brad was also in the Chancellor’s Honors Program and received numerous accolades for his academic achievement throughout his career at the University of Tennessee, including the prestigious Barry M. Goldwater Scholarship in 2008. Brad now lives between Cambridge, UK and Bethesda, MD as a student in the National Institutes of Health-Oxford-Cambridge Graduate Partnership Program.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol1/iss1/12</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1011</identifier>
+                <datestamp>2010-03-24T20:03:15Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>A Message from the Founder</dc:title>
+                    <dc:creator>Sharma, Payal</dc:creator>
+                    <dc:subject>Undergraduate Research</dc:subject>
+                    <dc:subject>Pursuit</dc:subject>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol1/iss1/3</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1009</identifier>
+                <datestamp>2010-03-24T19:58:46Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Acknowledgements</dc:title>
+                    <dc:creator>Skelton, Todd</dc:creator>
+                    <dc:subject>Undergraduate Research</dc:subject>
+                    <dc:subject>Pursuit</dc:subject>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol1/iss1/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1010</identifier>
+                <datestamp>2010-03-24T20:01:09Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>A Message from the Chancellor</dc:title>
+                    <dc:creator>Cheek, Jimmy G.</dc:creator>
+                    <dc:subject>Undergraduate Research</dc:subject>
+                    <dc:subject>Pursuit</dc:subject>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol1/iss1/2</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1043</identifier>
+                <datestamp>2011-03-28T00:13:16Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Acknowledgements</dc:title>
+                    <dc:creator>Bledsoe, Jenny</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol2/iss1/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1044</identifier>
+                <datestamp>2011-03-28T00:31:03Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>A Message from the Editor</dc:title>
+                    <dc:creator>Bledsoe, Jenny</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol2/iss1/2</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1092</identifier>
+                <datestamp>2011-12-02T15:46:25Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>A Message from the Editor</dc:title>
+                    <dc:creator>Russell, Sarah</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol3/iss1/2</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1091</identifier>
+                <datestamp>2011-12-02T15:44:35Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Acknowledgements</dc:title>
+                    <dc:creator>Russell, Sarah</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol3/iss1/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1104</identifier>
+                <datestamp>2012-03-21T14:34:19Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>A Message from the Editor</dc:title>
+                    <dc:creator>Russell, Sarah</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol3/iss2/2</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1103</identifier>
+                <datestamp>2012-03-21T14:27:52Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Acknowledgements</dc:title>
+                    <dc:creator>Russell, Sarah</dc:creator>
+                    <dc:subject>Acknowledgements</dc:subject>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol3/iss2/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1129</identifier>
+                <datestamp>2012-12-19T18:48:24Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Acknowledgements</dc:title>
+                    <dc:creator>Russell, Sarah</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol4/iss1/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1130</identifier>
+                <datestamp>2012-12-19T18:48:54Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>A Message from the Editor</dc:title>
+                    <dc:creator>Russell, Sarah</dc:creator>
+                    <dc:subject>Undergraduate Research</dc:subject>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol4/iss1/2</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1155</identifier>
+                <datestamp>2013-03-13T18:57:00Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Acknowledgements</dc:title>
+                    <dc:creator>Russell, Sarah</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol4/iss2/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1156</identifier>
+                <datestamp>2013-03-13T18:58:33Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>A Message from the Editor</dc:title>
+                    <dc:creator>Russell, Sarah</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol4/iss2/2</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1187</identifier>
+                <datestamp>2014-06-26T00:02:21Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Table of Contents</dc:title>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol5/iss1/3</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1186</identifier>
+                <datestamp>2014-06-26T00:04:14Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Editorial Board</dc:title>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol5/iss1/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1192</identifier>
+                <datestamp>2014-06-26T00:24:53Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Letter from the Editor</dc:title>
+                    <dc:creator>Lee, Melissa</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol5/iss1/2</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1250</identifier>
+                <datestamp>2015-04-27T21:31:57Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>2014-2015 Review Board</dc:title>
+                    <dc:creator>Ross, Julia Turner</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol6/iss1/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1249</identifier>
+                <datestamp>2015-04-27T20:50:33Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Letter from the Editor</dc:title>
+                    <dc:creator>Ross, Julia Turner</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol6/iss1/2</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:pursuit-1248</identifier>
+                <datestamp>2015-04-27T20:49:45Z</datestamp>
+                <setSpec>publication:pursuit</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Contents</dc:title>
+                    <dc:creator>Ross, Julia Turner</dc:creator>
+                    <dc:type>Prefatory Note</dc:type>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/pursuit/vol6/iss1/3</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1000</identifier>
+                <datestamp>2014-05-14T14:23:40Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 1 (February 1976)</dc:title>
+                    <dc:creator>Etnier, David</dc:creator>
+                    <dc:date>1976-02-01T08:00:00Z</dc:date>
+                    <dc:subject>fishes</dc:subject>
+                    <dc:subject>Snail Darter</dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>A Statement Concerning the Snail Darter. By David Etnier, plus News Notes, 4 pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss1/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1003</identifier>
+                <datestamp>2014-05-16T15:18:07Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 2 (August 1976)</dc:title>
+                    <dc:creator>Mettee, M. F.</dc:creator>
+                    <dc:date>1976-08-01T07:00:00Z</dc:date>
+                    <dc:subject>fishes</dc:subject>
+                    <dc:subject>Okaloosa Darter</dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>A Status Report on the Okaloosa Darter in Northwest Florida. By M.F. Mettee, et al., plus NewsNotes, 4pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss2/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1004</identifier>
+                <datestamp>2014-05-16T15:18:07Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 3 (November 1976)</dc:title>
+                    <dc:creator>Howell, W. M.</dc:creator>
+                    <dc:creator>Black, A.</dc:creator>
+                    <dc:date>1976-11-01T08:00:00Z</dc:date>
+                    <dc:subject>fishes</dc:subject>
+                    <dc:subject>Watercress Darter</dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>Status of the Watercress Darter. By W.M. Howell and A. Black, plus News Notes, 4 pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss3/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1005</identifier>
+                <datestamp>2014-05-16T15:18:07Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 4 (June 1977)</dc:title>
+                    <dc:creator>Suttkus, R. D.</dc:creator>
+                    <dc:creator>Clemmer, G.</dc:creator>
+                    <dc:date>1977-06-01T07:00:00Z</dc:date>
+                    <dc:subject>fishes</dc:subject>
+                    <dc:subject>Bayou Darter</dc:subject>
+                    <dc:subject>Etheostoma rubrum</dc:subject>
+                    <dc:subject>Bayou Pierre System</dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>A Status Report on the Bayou Darter, Etheostoma rubrum, and the Bayou Pierre System. By R.D. Suttkus and G. Clemmer, plus News Notes, 4 pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss4/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1007</identifier>
+                <datestamp>2014-05-16T17:12:05Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 6 (February 1978)</dc:title>
+                    <dc:creator>Starnes, W. C.</dc:creator>
+                    <dc:creator>Barnes, L. B.</dc:creator>
+                    <dc:date>1978-02-01T08:00:00Z</dc:date>
+                    <dc:subject>fishes</dc:subject>
+                    <dc:subject>Phoxinus</dc:subject>
+                    <dc:subject>Upper Cumberland Drainage </dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>Status Report on a New and Threatened Species of Phoxinus from the Upper Cumberland Drainage. By W.C. Starnes and L.B. Starnes, plus News Notes, 4 pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss6/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1008</identifier>
+                <datestamp>2014-05-16T17:12:05Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 7 (January 1979)</dc:title>
+                    <dc:creator>Southern Fishes Council, </dc:creator>
+                    <dc:date>1979-01-01T08:00:00Z</dc:date>
+                    <dc:subject>fishes</dc:subject>
+                    <dc:subject>Silvery Minnow</dc:subject>
+                    <dc:subject>Hybognathus nuchalis</dc:subject>
+                    <dc:subject>Tennessee River</dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>Whatever Happened to the Silvery Minnow (Hybognathus nuchalis) in the Tennessee River? By D.A. Etnier et al., plus News Notes, 4 pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss7/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1010</identifier>
+                <datestamp>2014-05-16T17:12:05Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 9 (November 1979)</dc:title>
+                    <dc:creator>Southern Fishes Council, </dc:creator>
+                    <dc:date>1979-11-01T08:00:00Z</dc:date>
+                    <dc:subject>southern redbelly dace</dc:subject>
+                    <dc:subject>Chrosomus erythrogaster</dc:subject>
+                    <dc:subject>mississippi</dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>The Status of the Southern Redbelly Dace, Chrosomus erythrogaster in Mississippi. By R.C. Cashner, et al., plus News Notes, 5 pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss9/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1013</identifier>
+                <datestamp>2014-05-16T17:12:05Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 12 (May 1982)</dc:title>
+                    <dc:creator>Southern Fishes Council, </dc:creator>
+                    <dc:date>1982-05-01T07:00:00Z</dc:date>
+                    <dc:subject>rare fishes</dc:subject>
+                    <dc:subject>tradewater</dc:subject>
+                    <dc:subject>lower green river</dc:subject>
+                    <dc:subject>kentucky</dc:subject>
+                    <dc:subject>fishes</dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>New Records, Distribution and Status of Ten Rare Fishes in the Tradewater and Lower Green River, Kentucky. By M.L. Warren and R.R. Cicerello, 8 pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss12/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1011</identifier>
+                <datestamp>2014-05-16T17:12:05Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 10 (December 1980)</dc:title>
+                    <dc:creator>Southern Fishes Council, </dc:creator>
+                    <dc:date>1980-12-01T08:00:00Z</dc:date>
+                    <dc:subject>fishes</dc:subject>
+                    <dc:subject>northern studfish</dc:subject>
+                    <dc:subject>fundulus catenatus</dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>New Records for the Northern Studfish Fundulus catenatus, in the Lower Mississippi and Gulf Coastal Drainages. By H.L. Bart and R.C. Cashner, plus News Notes, 5 pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss10/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:voljournals.utk.edu:sfcproceedings-1012</identifier>
+                <datestamp>2014-05-16T17:12:05Z</datestamp>
+                <setSpec>publication:sfcproceedings</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Number 11 (October 1981)</dc:title>
+                    <dc:creator>Southern Fishes Council, </dc:creator>
+                    <dc:date>1981-10-01T07:00:00Z</dc:date>
+                    <dc:subject>freshwater fishes</dc:subject>
+                    <dc:subject>maryland</dc:subject>
+                    <dc:subject>delaware</dc:subject>
+                    <dc:subject>Life Sciences</dc:subject>
+                    <dc:subject>Marine Biology</dc:subject>
+                    <dc:type>Full Issue</dc:type>
+                    <dc:description>A Revised List of the Freshwater Fishes of Maryland and Delaware. By D.L. Lee et al., 10 pp.</dc:description>
+                    <dc:description>1</dc:description>
+                    <dc:identifier>https://voljournals.utk.edu/sfcproceedings/vol1/iss11/1</dc:identifier>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+    </ListRecords>
+</OAI-PMH>
